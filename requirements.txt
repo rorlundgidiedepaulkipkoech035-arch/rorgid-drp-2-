@@ -1,0 +1,5 @@
+certstream
+flask>=3.0
+playwright
+tldextract
+gunicorn
